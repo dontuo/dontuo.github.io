@@ -1,0 +1,11 @@
+
+{
+    "projects": [
+        {
+            "name": "Warship game",
+            "image": "images/WarshipGame.png",
+            "description": "Гра в морський бій",
+            "url": "https://github.com/dontuo/WarshipGame"
+        }
+            ]
+}
